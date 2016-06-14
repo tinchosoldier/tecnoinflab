@@ -1,5 +1,3 @@
-//HOLA SOFI
-
 #include <string>
 #include <iostream>
 #include "Asignatura.h"
